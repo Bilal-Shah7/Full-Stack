@@ -1,0 +1,55 @@
+body {
+    background: #f8fafc;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background: #fd7e14;
+    color: white;
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.header h1 {
+    font-weight: 700;
+}
+
+.header p {
+    margin: 0;
+}
+
+h4 {
+    color: #fd7e14;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 10px;
+}
+
+label {
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.result {
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.eligible {
+    background: #d1e7dd;
+    color: #0f5132;
+}
+
+.not-eligible {
+    background: #f8d7da;
+    color: #842029;
+}
+
+.review {
+    background: #fff3cd;
+    color: #664d03;
+}
+
+.result li {
+    margin-bottom: 8px;
+}

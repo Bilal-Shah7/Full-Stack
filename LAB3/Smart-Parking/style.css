@@ -1,0 +1,56 @@
+body {
+    background: #f1f5f9;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background: #0dcaf0;
+    color: #083344;
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.header h1 {
+    font-weight: 700;
+}
+
+.header p {
+    margin: 0;
+}
+
+h4 {
+    color: #087990;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 10px;
+}
+
+label {
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.result {
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.approved {
+    background: #d1e7dd;
+    color: #0f5132;
+}
+
+.denied {
+    background: #f8d7da;
+    color: #842029;
+}
+
+.full {
+    background: #fff3cd;
+    color: #664d03;
+}
+
+.authorization {
+    background: #cff4fc;
+    color: #055160;
+}

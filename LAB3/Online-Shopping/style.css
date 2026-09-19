@@ -1,0 +1,50 @@
+body {
+    background: #f1f5f9;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background: #6f42c1;
+    color: white;
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+}
+
+.header h1 {
+    font-weight: 700;
+}
+
+.header p {
+    margin: 0;
+}
+
+h4 {
+    color: #6f42c1;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 10px;
+}
+
+label {
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.summary {
+    background: #f8f9fa;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+.final {
+    font-size: 24px;
+    font-weight: bold;
+    color: #6f42c1;
+}
+
+.summary-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+}
